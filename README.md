@@ -7,7 +7,7 @@
     <title>Document</title>
 </head>
 <body style="background-color: blanchedalmond;">
-    <h1 style="text-align: center; background: rgb(198, 132, 8); color: blanchedalmond;padding: 35px;">Hii Everyone</h1>
+    <h1 style="text-align: center; background: rgb(198, 132, 8); color: blanchedalmond;padding: 35px;">Hii Everyone!</h1>
     <h1 style="text-align: center; background: rgb(163, 107, 3); color: blanchedalmond;padding: 30px;">Greetings Of The Day!</h1><br>
     <h1>--------------------------------------------------------------------------</h1>
     <h1 style="text-align: center; background: rgb(170, 111, 1); color: blanchedalmond; margin: 0px; padding: 30px; ">Check My Result On Clicking -->More Tools --> Developer Tools -->console</h1>
